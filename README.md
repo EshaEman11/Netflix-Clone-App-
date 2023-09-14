@@ -1,5 +1,5 @@
 # Netflix-Clone-App-
-Technology Used: Flutter and Dart
-Application Description: Online streaming Application similar to netflix, one account will support 4 screens. Offline streaming option( to be added)
-Developer: Muhammad Abbas
-Course: Software Engineering
+Project Description: This is a streaming application in which Users can create profiles, stream content in high-quality, and receive personalized recommendations. The app supports offline downloads for on-the-go viewing, making it a comprehensive entertainment solution. 
+Project Technology: Flutter/Dart
+Developer Name: Muhammad Abbas(2021-CS-208)
+Course Name: Software Engineering
